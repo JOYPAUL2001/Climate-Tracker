@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Climate Tracker</string>
+    <string name="climate_tracker">Climate Tracker</string>
+    <string name="Temp">31°C</string>
+    <string name="textview">TextView</string>
+    <string name="jajan_india">Jajan, India</string>
+</resources>
