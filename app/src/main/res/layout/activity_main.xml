@@ -168,19 +168,17 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="3dp"
                     android:fontFamily="@font/amiko_semibold"
-
                     android:gravity="center"
                     android:text="70"
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/amiko_semibold"
                     android:gravity="center"
-
                     android:text="Humidity"
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
             </LinearLayout>
 
@@ -209,7 +207,7 @@
                     android:fontFamily="@font/amiko_semibold"
                     android:gravity="center"
                     android:text="70"
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -217,7 +215,7 @@
                     android:fontFamily="@font/amiko_semibold"
                     android:gravity="center"
                     android:text="Speed"
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
             </LinearLayout>
 
@@ -246,7 +244,7 @@
                     android:fontFamily="@font/amiko_semibold"
                     android:gravity="center"
                     android:text="70"
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -254,7 +252,7 @@
                     android:fontFamily="@font/amiko_semibold"
                     android:gravity="center"
                     android:text="Condition"
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
             </LinearLayout>
 
@@ -321,7 +319,7 @@
                     android:fontFamily="@font/amiko_semibold"
                     android:gravity="center"
                     android:text="70"
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -329,8 +327,7 @@
                     android:fontFamily="@font/amiko_semibold"
                     android:gravity="center"
                     android:text="Sunrise"
-
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
             </LinearLayout>
 
@@ -359,7 +356,7 @@
                     android:fontFamily="@font/amiko_semibold"
                     android:gravity="center"
                     android:text="70"
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -367,7 +364,7 @@
                     android:fontFamily="@font/amiko_semibold"
                     android:gravity="center"
                     android:text="Sea"
-                    android:textColor="#B4D4FF" />
+                    android:textColor="#EEF5FF" />
 
             </LinearLayout>
 
